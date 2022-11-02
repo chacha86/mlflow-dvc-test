@@ -1,0 +1,15 @@
+artifact_uri: file:///work/mlflow-test/mlruns/0/0b8ba1c0a7814667a461509061c3eb95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b8ba1c0a7814667a461509061c3eb95
+run_name: redolent-ox-257
+run_uuid: 0b8ba1c0a7814667a461509061c3eb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667389586280
+status: 1
+tags: []
+user_id: spark

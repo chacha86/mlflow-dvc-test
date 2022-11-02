@@ -1,0 +1,15 @@
+artifact_uri: file:///work/mlflow-test/mlruns/0/9eac564cdfe04e009e892e821a07472e/artifacts
+end_time: 1667390336768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eac564cdfe04e009e892e821a07472e
+run_name: monumental-jay-679
+run_uuid: 9eac564cdfe04e009e892e821a07472e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667390334135
+status: 3
+tags: []
+user_id: spark
